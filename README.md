@@ -4,7 +4,7 @@ Performance Dashboard built in Python and the Streamlit library to visualize Exc
 
 ## Demo
 
-Performance  Dashboard: https://ashwin044-performance-dashboard-01--home-c8ppne.streamlitapp.com/
+Performance  Dashboard:
 
 # Video Demo
 
