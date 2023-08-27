@@ -43,5 +43,5 @@ streamlit run 01_📈_Home.py
 ```
 
 # Feedback
-If you have any feedback, please reach out to me at ashwinkumar044@gmail.com
+If you have any feedback, please reach out to me at rvmonish@gmail.com
 
